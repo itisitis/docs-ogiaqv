@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-g78wj3.salamcuan.shop/sitemap.xml
